@@ -22,8 +22,8 @@ void setup() {
   Serial.begin(9600);
 
   // Moteurs
-  myservo1.attach(5);  // attaches the servo on pin 2
-  myservo2.attach(6);  // attaches the servo on pin 3
+  myservo1.attach(5);  // attaches the servo on pin 5
+  myservo2.attach(6);  // attaches the servo on pin 6
   myservo1.write(90);
   myservo2.write(90);
 }
