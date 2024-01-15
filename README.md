@@ -18,4 +18,4 @@ Il faut donc avoir une version de python 3 (`python --version`) ainsi que pip ou
 Le contrôleur utilise les librairies pygame et bluetooth :\
 `python -m pip install pygame` et `python -m pip install bluetooth`\
 Pour fonctionner, il faut aussi que l'ordinateur est le bletooth activer.\
-Lorsque le programme se lance, une petite fenêtre s'ouvre et vous pouvez utiliser les flèches directionnelles pour contrôler le ballbot.
+Lorsque le programme se lance (`python Controller.py`), une petite fenêtre s'ouvre et vous pouvez utiliser les flèches directionnelles pour contrôler le ballbot.
